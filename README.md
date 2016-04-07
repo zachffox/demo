@@ -1,6 +1,16 @@
 # demo
-Banks headquartered in oil-heavy states increased loan loss provisioning well above the national median in the 2015 fourth quarter. But since reserves are coming up from a low base, some analysts think banks will need to further increase provisioning to deal with the energy fallout.
-In Texas, nearly 100,000 people are employed in oil and gas extraction, representing more than half the nationwide total. Banks in the state increased provisioning by 71.94% year-over-year to $1.17 billion in 2015. 
+Banks headquartered in oil-heavy states increased loan loss provisioning ```well above the national median```
+
+*Does this compare a median to an aggregate?*
+
+in the 2015 fourth quarter. ```But since reserves are coming up from a low base, some analysts think banks will need to further increase provisioning to deal with the energy fallout.```
+
+*Don't see how this is supported in the story*
+
+In Texas, nearly 100,000 people are employed in oil and gas extraction, representing more than half the nationwide total. Banks in the state increased provisioning by 71.94% year-over-year to $1.17 billion in 2015.
+
+*source?*
+
 Elsewhere, the increases were even more dramatic, doubling in Wyoming and tripling in Alaska. Nationally, provisioning was up 21.56% year-over-year. But the total provisioning for the year was still a mere fraction of what banks set aside at the height of the credit crisis in 2009. Although depressed oil prices were a theme throughout 2015, U.S. production only started declining in the 2016 first quarter. Banks have reported increases in classified loans, but charge-offs remain very low.
 "It feels like we're in the very early innings of a baseball game that's not a very fun one," said Chris Marinac, director of research for FIG Partners.
 While it may be early innings, metro areas dependent on oil and gas are already feeling some pain. Few cities are as exposed as Casper, Wyo. In the 2015 third quarter — the most recent industry-specific data available — the metropolitan statistical area's employment base was 26 times more concentrated in drilling oil and gas wells than the national average. The oil and gas sector is already shedding jobs in the region: drilling jobs were down 50.9% and oil and gas support jobs were down 33.9% year-over-year in September.
